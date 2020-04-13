@@ -13,4 +13,5 @@ Cheuquepan_D_PEC.py: Contiene la implementación del web scraping, cuyos método
 
 # Otros archivos
 dcheuquepan_PRAC 1.PDF: Contiene las respuestas a las preguntas de la prueba.
+</br>
 fegosa.csv: Dataset creado a partir del programa de web scraping.
